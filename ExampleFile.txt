@@ -1,7 +1,7 @@
 Example Line
 
-MAGIC MAGIC with GIT!!!! :D
-
-Almost Computer Systems Engineer
+MAGIC MAGIC with GIT!!!! (& GIT Hub) :D
 
 Just need to finish this semester!
+
+Still learning git.
